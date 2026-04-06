@@ -29,7 +29,7 @@ export default function Home() {
             You paid to acquire them. They bought once and then disappeared. No second purchase. No loyalty. Just wasted CAC.
           </p>
           <p className="text-lg text-black/80 font-medium mb-10 leading-relaxed">
-            Stiqy helps you turn one-time buyers into repeat customers with automated retention flows that actually convert.
+            STIQY helps you turn one-time buyers into repeat customers with automated retention flows that actually convert.
           </p>
           <Button
             size="lg"
