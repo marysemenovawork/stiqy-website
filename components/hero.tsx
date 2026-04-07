@@ -21,7 +21,7 @@ export function Hero() {
               We build retention systems that turn one-time buyers into lifelong customers
             </h1>
             <p className="text-lg md:text-xl text-black/70 max-w-xl leading-relaxed">
-              Email, SMS, and loyalty programs for eCommerce brands that keep customers coming back — and spending more.
+              Email, SMS, and loyalty programs for eCommerce brands that keep customers coming back and spending more.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Button 
