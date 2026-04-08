@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import { Inter, Abril_Fatface } from 'next/font/google'
+import { Inter, Bodoni_Moda } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
@@ -8,10 +8,11 @@ const inter = Inter({
   variable: '--font-inter'
 });
 
-const abrilFatface = Abril_Fatface({
+const bodoni = Bodoni_Moda({
   subsets: ["latin"],
-  weight: ["400"],
-  variable: '--font-abril'
+  weight: ["900"],
+  style: ["italic"],
+  variable: '--font-bodoni'
 });
 
 export const metadata: Metadata = {
@@ -26,7 +27,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} ${abrilFatface.variable} font-sans antialiased`}>
+      <body className={`${inter.variable} ${bodoni.variable} font-sans antialiased`}>
         {children}
         <Analytics />
       </body>
