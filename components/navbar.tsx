@@ -22,7 +22,7 @@ export function Navbar() {
             <line x1="12.5" y1="15" x2="13.5" y2="16" stroke="url(#cloudGradNavbar)" strokeWidth="1.2" strokeLinecap="round"/>
             <line x1="21.5" y1="15" x2="20.5" y2="16" stroke="url(#cloudGradNavbar)" strokeWidth="1.2" strokeLinecap="round"/>
           </svg>
-          <span className="text-3xl bg-gradient-to-r from-orange-500 to-pink-500 bg-clip-text text-transparent" style={{ fontFamily: 'var(--font-bodoni)', fontStyle: 'italic', fontWeight: 900 }}>
+          <span className="text-3xl bg-gradient-to-r from-orange-500 to-pink-500 bg-clip-text text-transparent" style={{ fontFamily: 'var(--font-playfair)', fontWeight: 900 }}>
             STIQY
           </span>
         </div>
