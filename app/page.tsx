@@ -36,7 +36,7 @@ export default function Home() {
             className="bg-gradient-to-r from-orange-500 to-pink-500 hover:from-orange-600 hover:to-pink-600 text-white font-semibold px-8 py-6 text-lg shadow-lg shadow-orange-500/25 hover:shadow-xl hover:shadow-pink-500/30 transition-all duration-300"
             asChild
           >
-            <a href="https://calendly.com/stiqy/intro" target="_blank" rel="noopener noreferrer">
+            <a href="https://calendly.com/hi-stiqy/30min" target="_blank" rel="noopener noreferrer">
               Get First Audit for Free
             </a>
           </Button>
