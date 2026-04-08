@@ -11,7 +11,7 @@ export function Navbar() {
           className="bg-gradient-to-r from-orange-500 to-pink-500 hover:from-orange-600 hover:to-pink-600 text-white font-medium shadow-md shadow-orange-500/20"
           asChild
         >
-          <a href="https://calendly.com/stiqy/intro" target="_blank" rel="noopener noreferrer">
+          <a href="https://calendly.com/hi-stiqy/30min" target="_blank" rel="noopener noreferrer">
             Book a Call
           </a>
         </Button>
