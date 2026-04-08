@@ -4,7 +4,7 @@ export function Navbar() {
   return (
     <nav className="sticky top-0 z-50 border-b border-orange-100 bg-white/80 backdrop-blur-md">
       <div className="container mx-auto px-6 h-16 flex items-center justify-between">
-        <span className="text-2xl font-bold bg-gradient-to-r from-orange-500 to-pink-500 bg-clip-text text-transparent">
+        <span className="text-3xl font-black bg-gradient-to-r from-orange-500 to-pink-500 bg-clip-text text-transparent" style={{ fontFamily: 'var(--font-playfair)' }}>
           STIQY
         </span>
         <Button 
