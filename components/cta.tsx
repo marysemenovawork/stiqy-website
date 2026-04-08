@@ -22,7 +22,7 @@ export function CTA() {
           className="bg-white text-orange-600 hover:bg-orange-50 font-semibold px-10 py-7 text-lg shadow-2xl hover:shadow-xl transition-all duration-300 hover:scale-105"
           asChild
         >
-          <a href="https://calendly.com/stiqy/intro" target="_blank" rel="noopener noreferrer">
+          <a href="https://calendly.com/hi-stiqy/30min" target="_blank" rel="noopener noreferrer">
             Book Your Free Call Now
           </a>
         </Button>
